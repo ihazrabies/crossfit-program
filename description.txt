@@ -1,0 +1,7 @@
+this program will take user input (weaknesses, strengths, days per week, experience level) and generate a 3 4-week cycle crossfit program based on the input.
+
+components:
+user entry fields... weaknesses (gymnastics, strength, endurance), strengths (same), days per week of training (3-5), experience level (beginner, intermediate, advanced)
+customization options... specific exercises to focus on/omit
+program generator
+
